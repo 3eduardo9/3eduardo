@@ -1,7 +1,7 @@
 # 3eduardo
 Ola meu nome é eduardo
 
- - gosto de estudar o alura 
+ - gosto de estudar o [alura](https://www.alura.com.br) 
  - Outra coisa que gosto de fazer é jogar basquete
 
  ## espero que goste do meu perfil##
